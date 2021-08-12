@@ -29,19 +29,15 @@
 
 # Screenshots
 
-![Simulator Screen Shot - iPhone 11 - 2021-08-12 at 10 55 57](https://user-images.githubusercontent.com/56722459/129145264-ae3ca067-37bb-4b17-837e-fd5c69b1de28.png)
+![1](https://user-images.githubusercontent.com/56722459/129156029-7d8055b0-6839-4b3c-b9c9-50288dc8f367.png)
 
-![Simulator Screen Shot - iPhone 11 - 2021-08-12 at 10 55 59](https://user-images.githubusercontent.com/56722459/129145292-53eabb1e-48c9-4821-90fd-225d0aa72d29.png)
+![2](https://user-images.githubusercontent.com/56722459/129156043-55449903-6f4d-4ada-bd0e-57676371c6e0.png)
 
-![Simulator Screen Shot - iPhone 11 - 2021-08-12 at 10 56 06](https://user-images.githubusercontent.com/56722459/129145294-07cc80fb-0eb7-44be-890b-64406ccdf3f1.png)
+![3](https://user-images.githubusercontent.com/56722459/129156047-5406e7b6-a4b2-453e-922d-0648be23f9e8.png)
 
-![Simulator Screen Shot - iPhone 11 - 2021-08-12 at 10 56 10](https://user-images.githubusercontent.com/56722459/129145296-c0eb18cb-380f-4e55-90c4-22f0c3913b67.png)
+![4](https://user-images.githubusercontent.com/56722459/129156052-3f8e9441-046c-421f-905b-0113ab50a030.png)
 
-![Simulator Screen Shot - iPhone 11 - 2021-08-12 at 10 56 18](https://user-images.githubusercontent.com/56722459/129145299-fb3a665c-d829-456a-9f09-280b6261e68d.png)
-
-![Simulator Screen Shot - iPhone 11 - 2021-08-12 at 10 56 28](https://user-images.githubusercontent.com/56722459/129145320-b0c6ea13-d17b-499a-9dee-c180b5ac7c96.png)
-
-![Simulator Screen Shot - iPhone 11 - 2021-08-12 at 10 56 35](https://user-images.githubusercontent.com/56722459/129145322-4b995193-0132-4564-a719-06b39841da9f.png)
+![5](https://user-images.githubusercontent.com/56722459/129156054-c88a59f8-9a70-4d3a-b3a6-05929c82e460.png)
 
 
 # Video
