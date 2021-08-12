@@ -1,0 +1,239 @@
+{
+  "libraries": [
+    {
+      "id": "0",
+      "name": "Science Library",
+      "logoUrl": "scienceLibrary",
+      "address": "12 Hatteen Street, Riyadh, Saudi Arabia",
+      "type": "online",
+      "gps": {
+        "lat": 24.764547,
+        "lon": 46.642121
+      },
+      "lastKnownStoreStatus": "busy",
+      "phone": "+966 123 456789",
+      "country": "SA",
+      "operatingTimes": {
+        "sun": [
+          {
+            "from": "9",
+            "to": "13"
+          },
+          {
+            "from": "15",
+            "to": "18"
+          }
+        ],
+        "mon": [
+          {
+            "from": "9",
+            "to": "6"
+          }
+        ],
+        "tue": [
+          {
+            "from": "9",
+            "to": "13"
+          }
+        ],
+        "wed": [
+          {
+            "from": "9",
+            "to": "13"
+          }
+        ],
+        "thu": [
+          {
+            "from": "15",
+            "to": "18"
+          }
+        ],
+        "fri": [
+          {
+            "from": "9",
+            "to": "13"
+          }
+        ],
+        "sat": [
+          {
+            "from": "9",
+            "to": "13"
+          }
+        ]
+      },
+      "books": [
+        {
+          "id": "b0",
+          "imageUrls": [
+            "books1",
+            "books2",
+            "books3",
+            "books4",
+            "books5"
+          ],
+          "title": "Foundations of Library and Information Science.",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
+          "quantity": 12,
+          "isbn": "978-3-16-148410-0",
+          "publishDate": "2021-07-26T12:25:17.990Z",
+          "price": 200,
+          "unitsSold": 124,
+          "similarTo": [
+            "b1"
+          ],
+          "currentViewers": 90,
+          "rating5": 4.7
+        },
+        {
+          "id": "b1",
+          "imageUrls": [
+            "book2"
+          ],
+          "title": "Book 2",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
+          "quantity": 0,
+          "isbn": "978-3-16-148410-1",
+          "publishDate": "2021-07-20T12:25:17.990Z",
+          "price": 200,
+          "unitsSold": 124,
+          "similarTo": [],
+          "currentViewers": 100,
+          "rating5": 4.3
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Art Library",
+      "logoUrl": "artLibrary",
+      "address": "24 Sultana Street, Madinah, Saudi Arabia",
+      "type": "online",
+      "gps": {
+        "lat": 24.468461,
+        "lon": 39.609711
+      },
+      "lastKnownStoreStatus": "normal",
+      "phone": "+966 987a 654321",
+      "country": "SA",
+      "operatingTimes": {
+        "sun": [
+          {
+            "from": "10",
+            "to": "13"
+          },
+          {
+            "from": "14",
+            "to": "16"
+          }
+        ],
+        "mon": [
+          {
+            "from": "10",
+            "to": "7"
+          }
+        ],
+        "tue": [
+          {
+            "from": "10",
+            "to": "14"
+          }
+        ],
+        "wed": [
+          {
+            "from": "9",
+            "to": "6"
+          }
+        ],
+        "thu": [
+          {
+            "from": "9.30",
+            "to": "6.30"
+          }
+        ],
+        "fri": [
+          {
+            "from": "10.15",
+            "to": "8.14"
+          }
+        ],
+        "sat": [
+          {
+            "from": "10.20",
+            "to": "8.30"
+          }
+        ]
+      },
+      "books": []
+    },
+    {
+      "id": "2",
+      "name": "Music Library",
+      "logoUrl": "musicLibrary",
+      "type": "online",
+      "phone": "+966 987 654321",
+      "country": "United Kingdom",
+      "books": [
+        {
+          "id": "b2",
+          "imageUrls": [
+            "https://via.placeholder.com/500x200"
+          ],
+          "title": "Book 3",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
+          "quantity": 3,
+          "isbn": "978-3-16-148410-0",
+          "publishDate": "2021-07-21T12:25:17.990Z",
+          "price": 50,
+          "unitsSold": 30,
+          "similarTo": [],
+          "currentViewers": 10,
+          "rating5": 4.1
+        },
+        {
+          "id": "b3",
+          "imageUrls": [
+            "https://via.placeholder.com/500x200",
+            "https://via.placeholder.com/500x200"
+          ],
+          "title": "Book 4",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
+          "quantity": 2,
+          "isbn": "978-3-16-148410-1",
+          "publishDate": "2021-07-19T12:25:17.990Z",
+          "price": 25,
+          "unitsSold": 9,
+          "similarTo": [],
+          "currentViewers": 1,
+          "rating5": 2
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Coffee Library",
+      "logoUrl": "coffeeLibrary",
+      "type": "store",
+      "phone": "+966 987 654321",
+      "country": "SA",
+      "books": [
+        {
+          "id": "b4",
+          "imageUrls": [
+            "https://via.placeholder.com/500x200",
+            "https://via.placeholder.com/500x200"
+          ],
+          "title": "Book 5",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
+          "quantity": 2,
+          "isbn": "978-3-16-148410-1",
+          "publishDate": "2021-07-19T12:25:17.990Z",
+          "price": 25,
+          "unitsSold": 9,
+          "similarTo": [],
+          "currentViewers": 1,
+          "rating5": 3.3
+        }
+      ]
+    }
+  ]
+}
